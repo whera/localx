@@ -1,0 +1,34 @@
+{
+    "name": "wsw/localx",
+    "description": "Cliente para integração com api da Local X",
+    "type": "library",
+
+    "keywords": [
+        "API",
+        "Local X"
+    ],
+
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ronaldo M. Rodrigues",
+            "email": "ronaldo@whera.com.br"
+        }
+    ],
+    "require": {
+
+    },
+
+    "autoload": {
+        "psr-4": {
+            "WSW\\Localx\\": ["src", "test"]
+        }
+    },
+
+    "config": {
+        "bin-dir": "bin"
+    }
+}
