@@ -27,3 +27,41 @@ $Api = new Api('123456', '00000000000000000000000000000000');
 
 
 ```
+
+
+### Buscar produtos
+
+Efetuar busca de produtos no webservice
+
+```php
+
+<?php
+// Consideramos que já existe um autoloader compatível com a PSR-4 registrado
+
+use WSW\LocalX\Api;
+
+$Api = new Api('123456', '00000000000000000000000000000000');
+
+try {
+
+  $api = new WSW\LocalX\Api("00000", '00000000000000000000000000000000');
+
+  $search = array(
+    'codigo' => '018795-4',
+    'descricao' => 'FONTE SENTEY',
+    'marca' => 'SENTEY',
+    'grupo' => 'FONTES'
+  );
+
+	$result = $api->find($search);
+
+	var_dump(json_decode($result));
+
+
+
+} catch (Exception $e) {
+	echo $e->getMessage();
+}
+
+
+```
