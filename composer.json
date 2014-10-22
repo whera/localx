@@ -24,7 +24,7 @@
 
     "autoload": {
         "psr-4": {
-            "WSW\\Localx\\": ["src", "test"]
+            "WSW\\LocalX\\": ["src", "test"]
         }
     },
 
