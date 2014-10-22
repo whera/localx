@@ -16,6 +16,8 @@ Nesta versão é possível gerenciar:
 ### Credenciais de acesso
 
 Para poder realizar requisições ao Webservice você deve configurar as credenciais de acesso.
+* Código do cliente (int) 
+* Token Secreto (string) 
 
 ```php
 <?php
@@ -39,8 +41,6 @@ Efetuar busca de produtos no webservice
 // Consideramos que já existe um autoloader compatível com a PSR-4 registrado
 
 use WSW\LocalX\Api;
-
-$Api = new Api('123456', '00000000000000000000000000000000');
 
 try {
 
