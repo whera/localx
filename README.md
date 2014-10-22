@@ -10,7 +10,7 @@ A instalação desta biblioteca pode ser feita utilizando o [Composer](https://p
 
 Nesta versão é possível gerenciar:
 
-* Buscar produtos por código, descrição, marca ou grupo (Pode usar todoas os campos em conjunto);
+* Buscar produtos por código, descrição, marca ou grupo (Podendo utilizar todoas os campos em conjunto);
 
 
 ### Credenciais de acesso
