@@ -65,3 +65,12 @@ try {
 
 
 ```
+
+### Retorno
+
+Os dados retornados vem em forma de [JSON](http://json.org/)
+
+
+### Licença de uso
+
+Esta biblioteca segue os termos de uso da [The MIT License (MIT)](http://opensource.org/licenses/MIT)
