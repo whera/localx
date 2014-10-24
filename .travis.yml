@@ -2,7 +2,6 @@ language: php
 script: phpunit -c phpunit.xml --verbose test/
 
 php:
-  - 5.3
   - 5.4
 
 before_script:
