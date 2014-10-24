@@ -1,5 +1,5 @@
 language: php
-script: phpunit -c phpunit.xml --verbose --coverage-text test/
+script: phpunit -c phpunit.xml --verbose test/
 
 php:
   - 5.3
