@@ -1,6 +1,9 @@
 # API Local X 
 
 [![Build Status](https://travis-ci.org/whera/localx.svg?branch=master)](https://travis-ci.org/whera/localx)
+[![Latest Stable Version](https://poser.pugx.org/wsw/localx/v/stable.svg)](https://packagist.org/packages/wsw/localx)
+[![Total Downloads](https://poser.pugx.org/wsw/localx/downloads.svg)](https://packagist.org/packages/wsw/localx)
+[![License](https://poser.pugx.org/wsw/localx/license.svg)](https://packagist.org/packages/wsw/localx)
 
 
 API de integração com o Webservice Local X para PHP 5.3+, deve ser utilizado um Autoloader compatível com a PSR-4.
@@ -76,4 +79,4 @@ Os dados retornados vem em forma de [JSON](http://json.org/)
 
 ### Licença de uso
 
-Esta biblioteca segue os termos de uso da [The MIT License (MIT)](http://opensource.org/licenses/MIT)
+Esta biblioteca segue os termos de uso da [![License](https://poser.pugx.org/wsw/localx/license.svg)](https://packagist.org/packages/wsw/localx)
