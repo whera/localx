@@ -1,4 +1,4 @@
-# API Local X
+# API Local X [![Build Status](https://travis-ci.org/whera/localx.svg?branch=master)](https://travis-ci.org/wesleywillians/BasePHPProject)
 
 API de integração com o Webservice Local X para PHP 5.3+, deve ser utilizado um Autoloader compatível com a PSR-4.
 
