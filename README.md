@@ -50,7 +50,7 @@ use WSW\LocalX\Api;
 
 try {
 
-  $api = new WSW\LocalX\Api("00000", '00000000000000000000000000000000');
+  $api = new Api("00000", '00000000000000000000000000000000');
 
   $search = array(
     'codigo' => '018795-4',
