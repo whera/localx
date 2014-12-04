@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/whera/localx.svg?branch=master)](https://travis-ci.org/whera/localx)
 [![Latest Stable Version](https://poser.pugx.org/wsw/localx/v/stable.svg)](https://packagist.org/packages/wsw/localx)
-[![Total Downloads](https://poser.pugx.org/wsw/localx/downloads.svg)](https://packagist.org/packages/wsw/localx)
 [![License](https://poser.pugx.org/wsw/localx/license.svg)](https://packagist.org/packages/wsw/localx)
 
 
